@@ -6,9 +6,28 @@
     <description>Recent content in Tags on gwurr3&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 26 Sep 2017 04:15:04 -0700</lastBuildDate>
     
 	<atom:link href="http://gwurr3.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blog</title>
+      <link>http://gwurr3.me/tags/blog/</link>
+      <pubDate>Tue, 26 Sep 2017 04:15:04 -0700</pubDate>
+      
+      <guid>http://gwurr3.me/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>http://gwurr3.me/tags/personal/</link>
+      <pubDate>Tue, 26 Sep 2017 04:15:04 -0700</pubDate>
+      
+      <guid>http://gwurr3.me/tags/personal/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

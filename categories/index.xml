@@ -10,5 +10,32 @@
 	<atom:link href="http://gwurr3.me/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Electronics</title>
+      <link>http://gwurr3.me/categories/electronics/</link>
+      <pubDate>Tue, 26 Sep 2017 04:15:04 -0700</pubDate>
+      
+      <guid>http://gwurr3.me/categories/electronics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engineering</title>
+      <link>http://gwurr3.me/categories/engineering/</link>
+      <pubDate>Tue, 26 Sep 2017 04:15:04 -0700</pubDate>
+      
+      <guid>http://gwurr3.me/categories/engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>http://gwurr3.me/categories/technology/</link>
+      <pubDate>Tue, 26 Sep 2017 04:15:04 -0700</pubDate>
+      
+      <guid>http://gwurr3.me/categories/technology/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
