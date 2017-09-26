@@ -1,2 +1,2 @@
 # gwurr3.github.io
-my page
+this is the 'hugo' branch which should contain all the site data and misc.
