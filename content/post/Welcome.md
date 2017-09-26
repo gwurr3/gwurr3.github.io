@@ -1,8 +1,8 @@
 +++
-title = "{{ replace .TranslationBaseName "-" " " | title }}"
-date = {{ .Date }}
-description = "INSERT DESCRIPTION HERE"
-draft = true
+title = "Welcome"
+date = 2017-09-26T04:15:04-07:00
+description = "gwurr3's new blog"
+draft = false
 toc = false
 categories = ["technology", "engineering", "electronics"]
 tags = ["blog", "personal"]
@@ -11,7 +11,7 @@ images = [
 ] # overrides the site-wide open graph image
 +++
 
-Blah blah write blog
+This is my first test post with hugo/after-dark on ghpages
 
 <!--more-->
 
