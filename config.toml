@@ -19,7 +19,8 @@ footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
   images = [
     "https://avatars2.githubusercontent.com/u/3762920?v=4&s=460"
   ] # Suggested, controls default Open Graph images
-  theme_variant = "" # Optional, for use to overriding default theme
+  #theme_variant = "hack dark-solarized"
+  theme_variant = ""
 
 [[menu.main]]
   name = "Home"
