@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo blogging on ~gwurr3/</title>
+    <link>http://blog.gwurr3.me/categories/hugo-blogging/</link>
+    <description>Recent content in hugo blogging on ~gwurr3/</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Sep 2017 04:15:04 -0700</lastBuildDate>
+    
+	<atom:link href="http://blog.gwurr3.me/categories/hugo-blogging/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>http://blog.gwurr3.me/post/welcome/</link>
+      <pubDate>Tue, 26 Sep 2017 04:15:04 -0700</pubDate>
+      
+      <guid>http://blog.gwurr3.me/post/welcome/</guid>
+      <description>&lt;p&gt;This is my first test post&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

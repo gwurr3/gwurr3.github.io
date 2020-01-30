@@ -38,5 +38,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>hugo blogging</title>
+      <link>http://blog.gwurr3.me/categories/hugo-blogging/</link>
+      <pubDate>Tue, 26 Sep 2017 04:15:04 -0700</pubDate>
+      
+      <guid>http://blog.gwurr3.me/categories/hugo-blogging/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

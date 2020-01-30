@@ -6,7 +6,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>personal | ~gwurr3/</title>
 		<meta name="description" content="gwurr3&#39;s personal blog">
-		<meta name="keywords" content="electronics, engineering, technology, ">
+		<meta name="keywords" content="electronics, engineering, hugo blogging, technology, ">
 		
 		
 		
@@ -76,14 +76,31 @@ h1.sitetitle {
 	line-height: 0.9;
 }
 
+
+h2.title {
+	text-shadow: 2px 3px 0px #476871;
+	font-size: 30pt;
+	padding: 0;
+	margin: 0;
+	margin-bottom: 20px;
+	line-height: 0.9;
+}
+
+h2.headline {
+	font-size: 18pt;
+	margin-top: 40px;
+	line-height: 0.9;
+}
+
 h2.headline a {
 	text-decoration: none;
 	color: #e3d7bf;
 }
 
 nav.mainmenu {
-	padding: 20px;
-	margin-top: 10px;
+	padding: 0px;
+	margin-top: 5px;
+	margin-bottom: 45px;
 }
 
 li, p {
@@ -118,10 +135,10 @@ p.postmeta {
 pre {
 	font-family: "Anonymous Pro", monospace;
 	background-color: #232927;
-	padding: 10px;
+	padding: 3px;
 	border-right: 1px solid #1a1a1a;
 	border-bottom: 1px solid #1a1a1a;
-	line-height: 105%;
+	line-height: 50%;
 	font-weight: 500;
 }
 
@@ -129,6 +146,10 @@ code {
 	font-family: "Anonymous Pro", monospace;
 	background-color: #232927;
 	white-space: nowrap;
+	line-height: 89%;
+	display: block;
+	padding: 20px;
+	margin-bottom: 15px;
 }
 
 p.caption {
@@ -173,21 +194,21 @@ span.Special { color: #f8ebd1; }
 	<header>
 	
 		<h1 class="sitetitle">~gwurr3/</h1>
-		<h2 class="title">personal</h2>
-	
-</header>
-
-	
+		
 	<nav class="mainmenu" itemscope itemtype="http://schema.org/SiteNavigationElement">
 		<p class="caption"> gwurr3&#39;s personal blog </p>
 		
 		
-			<a itemprop="url" class="" href="/"><span itemprop="name">Home</span></a>
+			| <a itemprop="url" class="" href="/"><span itemprop="name">Home</span></a>
 		
-			<a itemprop="url" class="" href="/post/"><span itemprop="name">Posts</span></a>
-		
+			| <a itemprop="url" class="" href="/post/"><span itemprop="name">Posts</span></a>
+		|
 	</nav>
 
+
+		<h2 class="title">personal</h2>
+	
+</header>
 
 </header>
 		<main>
@@ -253,7 +274,7 @@ span.Special { color: #f8ebd1; }
 		<blockquote itemprop="headline">gwurr3&#39;s new blog</blockquote>
 	
 	<div itemprop="description">
-		<p>This is my first test post with hugo/after-dark on ghpages</p>
+		<p>This is my first test post</p>
 	</div>
 	
 		<nav class="readmore"><a itemprop="url" href="/post/welcome/">Read More&nbsp;&raquo;</a></nav>

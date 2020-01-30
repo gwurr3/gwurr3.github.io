@@ -21,14 +21,5 @@
 &lt;p&gt;&lt;code&gt;this is a test&lt;/code&gt;&lt;/p&gt;</description>
     </item>
     
-    <item>
-      <title>Welcome</title>
-      <link>http://blog.gwurr3.me/post/welcome/</link>
-      <pubDate>Tue, 26 Sep 2017 04:15:04 -0700</pubDate>
-      
-      <guid>http://blog.gwurr3.me/post/welcome/</guid>
-      <description>&lt;p&gt;This is my first test post with hugo/after-dark on ghpages&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>

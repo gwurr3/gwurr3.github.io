@@ -71,14 +71,31 @@ h1.sitetitle {
 	line-height: 0.9;
 }
 
+
+h2.title {
+	text-shadow: 2px 3px 0px #476871;
+	font-size: 30pt;
+	padding: 0;
+	margin: 0;
+	margin-bottom: 20px;
+	line-height: 0.9;
+}
+
+h2.headline {
+	font-size: 18pt;
+	margin-top: 40px;
+	line-height: 0.9;
+}
+
 h2.headline a {
 	text-decoration: none;
 	color: #e3d7bf;
 }
 
 nav.mainmenu {
-	padding: 20px;
-	margin-top: 10px;
+	padding: 0px;
+	margin-top: 5px;
+	margin-bottom: 45px;
 }
 
 li, p {
@@ -113,10 +130,10 @@ p.postmeta {
 pre {
 	font-family: "Anonymous Pro", monospace;
 	background-color: #232927;
-	padding: 10px;
+	padding: 3px;
 	border-right: 1px solid #1a1a1a;
 	border-bottom: 1px solid #1a1a1a;
-	line-height: 105%;
+	line-height: 50%;
 	font-weight: 500;
 }
 
@@ -124,6 +141,10 @@ code {
 	font-family: "Anonymous Pro", monospace;
 	background-color: #232927;
 	white-space: nowrap;
+	line-height: 89%;
+	display: block;
+	padding: 20px;
+	margin-bottom: 15px;
 }
 
 p.caption {
@@ -168,21 +189,21 @@ span.Special { color: #f8ebd1; }
 	<header>
 	
 		<h1 class="sitetitle">~gwurr3/</h1>
-		<h2 class="title">Welcome</h2>
-	
-</header>
-
-	
+		
 	<nav class="mainmenu" itemscope itemtype="http://schema.org/SiteNavigationElement">
 		<p class="caption"> gwurr3&#39;s personal blog </p>
 		
 		
-			<a itemprop="url" class="" href="/"><span itemprop="name">Home</span></a>
+			| <a itemprop="url" class="" href="/"><span itemprop="name">Home</span></a>
 		
-			<a itemprop="url" class="active" href="/post/"><span itemprop="name">Posts</span></a>
-		
+			| <a itemprop="url" class="active" href="/post/"><span itemprop="name">Posts</span></a>
+		|
 	</nav>
 
+
+		<h2 class="title">Welcome</h2>
+	
+</header>
 
 </header>
 		<main>
@@ -191,7 +212,7 @@ span.Special { color: #f8ebd1; }
 <meta itemprop="description" content="gwurr3&#39;s new blog">
 <meta itemprop="datePublished" content="2017-09-26T04:15:04-07:00" />
 <meta itemprop="dateModified" content="2017-09-26T04:15:04-07:00" />
-<meta itemprop="wordCount" content="13">
+<meta itemprop="wordCount" content="42">
 <meta itemprop="image" content="https://avatars2.githubusercontent.com/u/3762920?v=4&s=460">
 
 
@@ -219,8 +240,32 @@ span.Special { color: #f8ebd1; }
 		
 
 		<div itemprop="articleBody">
-			<p>This is my first test post with hugo/after-dark on ghpages</p>
+			<p>This is my first test post</p>
 <p>Blah blah blah</p>
+<h2 id="shortcode-theme-test">shortcode theme test:</h2>
+<code> 
+this is a block of code <br>
+blah blah blah <br>
+blah blah
+</code>
+
+<p>nice.</p>
+<p><pre>
+
+<span class="Prompt">$&nbsp;</span># this is a shell command 
+
+</pre>
+
+<pre>
+
+<span class="Prompt">$&nbsp;</span># this is another shell command \
+
+<span class="Prompt">&gt&nbsp;</span>that has multiple \
+
+<span class="Prompt">&gt&nbsp;</span>lines 
+
+</pre>
+</p>
 		</div>
 		
 		<footer>
@@ -236,12 +281,12 @@ span.Special { color: #f8ebd1; }
 		26 Sep, 2017
 	</time>
 	
-		in <span itemprop="articleSection"><a href="/categories/electronics/">electronics</a>, <a href="/categories/engineering/">engineering</a> and <a href="/categories/technology/">technology</a></span>
+		in <span itemprop="articleSection"><a href="/categories/hugo-blogging/">hugo blogging</a> and <a href="/categories/technology/">technology</a></span>
 	
 	
 		and tagged <a href="/tags/blog/">blog</a> and <a href="/tags/personal/">personal</a>
 	
-	using <span itemprop="wordCount">13</span> words.
+	using <span itemprop="wordCount">42</span> words.
 </p>
 
 			
