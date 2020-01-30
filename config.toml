@@ -1,10 +1,9 @@
 baseURL = "http://blog.gwurr3.me/"
 languageCode = "en-us"
-title = "gwurr3's blog"
+title = "/home/gwurr3"
 theme = "gwurr3tech"
 paginate = 11 # Number of posts to show before paginating
 
-show_menu = true
 
 enableRobotsTXT = true # Suggested, enable robots.txt file
 googleAnalytics = "" # Optional, add tracking Id for analytics
@@ -13,15 +12,14 @@ SectionPagesMenu = "main" # Enable menu system for lazy bloggers
 footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
 
 [params]
-  description = "some stuff" # Suggested, controls default description meta
+  description = "gwurr3's personal blog" # Suggested, controls default description meta
   author = "gwurr3" # Optional, controls author name display on posts
   hide_author = false # Optional, set true to hide author name on posts
-  show_menu = false # Optional, set true to enable section menu
+  show_menu = true # Optional, set true to enable section menu
   powered_by = false # Optional, set false to disable credits
   images = [
     "https://avatars2.githubusercontent.com/u/3762920?v=4&s=460"
   ] # Suggested, controls default Open Graph images
-  #theme_variant = "hack dark-solarized"
   theme_variant = ""
 
 [[menu.main]]
