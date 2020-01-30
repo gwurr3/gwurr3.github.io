@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://blog.gwurr3.me/</loc>
-    <lastmod>2020-01-30T02:18:59-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://blog.gwurr3.me/tags/blog/</loc>
     <lastmod>2020-01-30T02:18:59-08:00</lastmod>
   </url>
@@ -49,6 +44,11 @@
   
   <url>
     <loc>http://blog.gwurr3.me/post/update/</loc>
+    <lastmod>2020-01-30T02:18:59-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.gwurr3.me/</loc>
     <lastmod>2020-01-30T02:18:59-08:00</lastmod>
   </url>
   
