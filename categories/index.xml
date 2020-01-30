@@ -1,39 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on gwurr3&#39;s blog</title>
-    <link>http://gwurr3.me/categories/</link>
+    <link>http://blog.gwurr3.me/categories/</link>
     <description>Recent content in Categories on gwurr3&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 26 Sep 2017 04:15:04 -0700</lastBuildDate>
     
-	<atom:link href="http://gwurr3.me/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.gwurr3.me/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Electronics</title>
-      <link>http://gwurr3.me/categories/electronics/</link>
+      <title>electronics</title>
+      <link>http://blog.gwurr3.me/categories/electronics/</link>
       <pubDate>Tue, 26 Sep 2017 04:15:04 -0700</pubDate>
       
-      <guid>http://gwurr3.me/categories/electronics/</guid>
+      <guid>http://blog.gwurr3.me/categories/electronics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Engineering</title>
-      <link>http://gwurr3.me/categories/engineering/</link>
+      <title>engineering</title>
+      <link>http://blog.gwurr3.me/categories/engineering/</link>
       <pubDate>Tue, 26 Sep 2017 04:15:04 -0700</pubDate>
       
-      <guid>http://gwurr3.me/categories/engineering/</guid>
+      <guid>http://blog.gwurr3.me/categories/engineering/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Technology</title>
-      <link>http://gwurr3.me/categories/technology/</link>
+      <title>technology</title>
+      <link>http://blog.gwurr3.me/categories/technology/</link>
       <pubDate>Tue, 26 Sep 2017 04:15:04 -0700</pubDate>
       
-      <guid>http://gwurr3.me/categories/technology/</guid>
+      <guid>http://blog.gwurr3.me/categories/technology/</guid>
       <description></description>
     </item>
     
