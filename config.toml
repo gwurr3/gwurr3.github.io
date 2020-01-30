@@ -1,6 +1,6 @@
 baseURL = "http://blog.gwurr3.me/"
 languageCode = "en-us"
-title = "/home/gwurr3"
+title = "~gwurr3/"
 theme = "gwurr3tech"
 paginate = 11 # Number of posts to show before paginating
 
