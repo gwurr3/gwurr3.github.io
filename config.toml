@@ -4,6 +4,8 @@ title = "gwurr3's blog"
 theme = "gwurr3tech"
 paginate = 11 # Number of posts to show before paginating
 
+show_menu = true
+
 enableRobotsTXT = true # Suggested, enable robots.txt file
 googleAnalytics = "" # Optional, add tracking Id for analytics
 disqusShortname = "" # Optional, add Disqus shortname for comments
