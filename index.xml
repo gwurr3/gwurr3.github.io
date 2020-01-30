@@ -6,10 +6,20 @@
     <description>Recent content on gwurr3&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Sep 2017 04:15:04 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 02:18:59 -0800</lastBuildDate>
     
 	<atom:link href="http://blog.gwurr3.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Update</title>
+      <link>http://blog.gwurr3.me/post/update/</link>
+      <pubDate>Thu, 30 Jan 2020 02:18:59 -0800</pubDate>
+      
+      <guid>http://blog.gwurr3.me/post/update/</guid>
+      <description>&lt;p&gt;Woohoo! an update!&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;this is a test&lt;/code&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Welcome</title>
