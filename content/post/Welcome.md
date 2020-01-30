@@ -15,9 +15,4 @@ This is my first test post with hugo/after-dark on ghpages
 
 <!--more-->
 
-Here's an example animation rendered using BPG:
-
-<img src="/bpg/cinemagraph-6.bpg" alt="BPG file format example">
-
-The above file is `48KB`, **97% smaller** than the equivalent GIF. Seriously.
-
+Blah blah blah

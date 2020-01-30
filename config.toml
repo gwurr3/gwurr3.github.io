@@ -1,7 +1,7 @@
-baseURL = "http://gwurr3.me/"
+baseURL = "http://blog.gwurr3.me/"
 languageCode = "en-us"
 title = "gwurr3's blog"
-theme = "after-dark"
+theme = "gwurr3tech"
 paginate = 11 # Number of posts to show before paginating
 
 enableRobotsTXT = true # Suggested, enable robots.txt file

@@ -1,3 +1,3 @@
-[submodule "themes/after-dark"]
-	path = themes/after-dark
-	url = https://github.com/comfusion/after-dark
+[submodule "themes/gwurr3tech"]
+	path = themes/gwurr3tech
+	url = git@github.com:gwurr3/gwurr3tech.git
